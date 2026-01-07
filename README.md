@@ -97,16 +97,12 @@ CyberSecNotFound/
 
 
 
-📊 GitHub Stats
+📊 GitHub Statistic
 
 <br>
 
 
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight&hide_border=true"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight&hide_border=true"> </div>
-<br>
-
-
-Contribution
 <br>
 <div align="center">
   <picture>
