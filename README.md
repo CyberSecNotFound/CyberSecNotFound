@@ -117,9 +117,10 @@ CyberSecNotFound/
 </div>
 
 <br>
-
+```
 ## 🎯 Current Goals
 <br>
+
 ```txt
 [ ] Master Red Team Fundamentals
 [ ] Build Strong Blue Team Detection Skills
@@ -129,8 +130,11 @@ CyberSecNotFound/
 ```
 ⚠️ Disclaimer
 
+```txt
+
 All materials in this repository are for educational purposes only.
 Unauthorized or illegal use is strictly prohibited.
+```
 <br>
 
 ## 🤝 Contact
