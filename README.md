@@ -33,8 +33,9 @@ Mindset : Think like an attacker, defend like a professional
 - Privilege Escalation (Linux / Windows)
 - Basic Exploit Development
 ```
-nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
+Tools
 ```txt
+nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
 ```
 🔵 Blue Team — Defensive Security
 ```txt
@@ -48,7 +49,10 @@ wireshark | elastic stack | sysmon | firewall | IDS / IPS
 ```txt
 ```
 ⚙️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
+
+```txt
+
 Operating Systems:
   - Kali Linux
   - Ubuntu Server
@@ -57,8 +61,5 @@ Operating Systems:
 Scripting:
   - Bash
   - Python
-
-Version Control:
   - Git & GitHub
-```txt
 
