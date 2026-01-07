@@ -2,8 +2,7 @@
 <!--  Username : CyberSecNotFound                      -->
 <!-- ================================================= -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
+<div align="center"> <!-- Typing effect dengan cursor --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve&duration=4000&repeat=false&cursor=|"/> </div>
 <div align="center">
   <img src="./banner.svg" alt="404 Cyber Security Banner">
 </div>
