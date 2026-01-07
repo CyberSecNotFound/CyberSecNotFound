@@ -23,6 +23,7 @@ Alias   : CyberSecNotFound
 Level   : Cyber Security Student / Aspiring Professional
 Focus   : Red Team & Blue Team Operations
 Mindset : Think like an attacker, defend like a professional
+
 🔴 Red Team Focus (Offensive Security)
 
 Web Application Penetration Testing
@@ -64,7 +65,7 @@ Operating Systems:
   - Ubuntu Server
   - Windows
 
-Programming:
+Programming & Scripting:
   - Bash
   - Python
 
@@ -73,8 +74,8 @@ Version Control:
 
 🧪 Labs & Training Platforms
 <div align="center"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge" /> </div>
-🪪 Certification Roadmap
-<div align="center"> <img src="https://img.shields.io/badge/eJPT-Target-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C" /> <img src="https://img.shields.io/badge/CEH-Target-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black" /> <img src="https://img.shields.io/badge/OSCP-Future-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C" /> </div>
+🪪 Certification Roadmap (Target)
+<div align="center"> <img src="https://img.shields.io/badge/eJPT-TARGET-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C" /> <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black" /> <img src="https://img.shields.io/badge/OSCP-FUTURE-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C" /> </div>
 📊 GitHub Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribution Snake
@@ -89,10 +90,12 @@ Version Control:
 
  Entry-Level Certifications
 
- Cyber Security Professional
+ Become a Cyber Security Professional
 
 🤝 Contact
 
-GitHub: https://github.com/CyberSecNotFound
+GitHub : https://github.com/CyberSecNotFound
+
+Focus : Cyber Security • Red Team • Blue Team • CTF
 
 <div align="center"> <img src="https://img.shields.io/badge/STAY-ANONYMOUS-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C" /> <img src="https://img.shields.io/badge/STAY-SECURE-00FF9C?style=for-the-badge" /> </div>
