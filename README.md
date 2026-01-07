@@ -4,7 +4,10 @@
 
 <div align="center">
 
+<!-- Typing SVG Intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
+
+<!-- Banner SVG -->
 <svg
   width="854"
   height="200"
@@ -16,17 +19,16 @@
       font-size: 80px; 
       font-weight: 700; 
       font-family: 'Courier New', Courier, monospace;
-      fill: #00FF9C; /* teks hijau neon */
+      fill: #00FF9C;
     } 
     .desc { 
       font-size: 24px; 
       font-weight: 500; 
       font-family: 'Courier New', Courier, monospace;
-      fill: #00FF9C; /* teks hijau neon */
+      fill: #00FF9C;
     } 
   </style>
 
-  <!-- Background waves, lebih transparan supaya teks terlihat -->
   <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
     <path fill="#00FF9C" opacity="0.1">
       <animate
@@ -34,10 +36,10 @@
         dur="20s"
         repeatCount="indefinite"
         keyTimes="0;0.333;0.667;1"
-        values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;
-                M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;
-                M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;
-                M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+        values="M0 0L 0 120Q 213.5 160 427 130T854 155L854 0 Z;
+                M0 0L 0 145Q 213.5 160 427 140T854 130L854 0 Z;
+                M0 0L 0 165Q 213.5 135 427 165T854 130L854 0 Z;
+                M0 0L 0 120Q 213.5 160 427 130T854 155L854 0 Z">
       </animate>
     </path>
     <path fill="#00FF9C" opacity="0.1">
@@ -47,15 +49,14 @@
         repeatCount="indefinite"
         begin="-10s"
         keyTimes="0;0.333;0.667;1"
-        values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;
-                M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;
-                M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;
-                M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+        values="M0 0L 0 135Q 213.5 180 427 150T854 160L854 0 Z;
+                M0 0L 0 150Q 213.5 120 427 120T854 140L854 0 Z;
+                M0 0L 0 145Q 213.5 125 427 150T854 165L854 0 Z;
+                M0 0L 0 135Q 213.5 180 427 150T854 160L854 0 Z">
       </animate>
     </path>
   </g>
 
-  <!-- Teks hacker-style -->
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" class="text">
     404 NOT FOUND
   </text>
@@ -66,6 +67,7 @@
 
 <br>
 
+<!-- Badges -->
 <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
 <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
 <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
@@ -73,13 +75,13 @@
 
 </div>
 
-
 ## 👤 Profile
 ```txt
 Alias   : CyberSecNotFound
 Level   : Cyber Security Student / Aspiring Professional
 Focus   : Red Team & Blue Team Operations
 Mindset : Think like an attacker, defend like a professional
+
 ```
 ## 🔴 Red Team Focus (Offensive Security)
 ```txt
