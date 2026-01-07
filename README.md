@@ -101,7 +101,9 @@ CyberSecNotFound/
 ## 📊 GitHub Analytics
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSecNotFound&theme=tokyo-night)
-
+![Followers](https://img.shields.io/github/followers/CyberSecNotFound?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/CyberSecNotFound?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos--?style=for-the-badge)
 
 </div>
 <br>
