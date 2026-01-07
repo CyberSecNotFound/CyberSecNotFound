@@ -23,7 +23,7 @@ Level   : Cyber Security Student / Aspiring Professional
 Focus   : Red Team & Blue Team Operations
 Mindset : Think like an attacker, defend like a professional
 ```
-🔴 Red Team Focus (Offensive Security)
+## 🔴 Red Team Focus (Offensive Security)
 ```txt
 - Web Application Penetration Testing
 - Network Penetration Testing
@@ -32,11 +32,11 @@ Mindset : Think like an attacker, defend like a professional
 - Privilege Escalation (Linux / Windows)
 - Basic Exploit Development
 ```
-Tools
+## Tools
 ```txt
 nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
 ```
-🔵 Blue Team — Defensive Security
+## 🔵 Blue Team — Defensive Security
 ```txt
 + Log Analysis & Monitoring
 + Incident Response Fundamentals
@@ -44,11 +44,11 @@ nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
 + Threat Detection & Alerting
 + Security Awareness
 ```
-Tools
+## Tools
 ```txt
 wireshark | elastic stack | sysmon | firewall | IDS / IPS
 ```
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 <div align="left"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
 
 ```txt
@@ -70,7 +70,7 @@ Scripting:
 <div align="left"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
 <br>
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```txt
 CyberSecNotFound/
@@ -88,7 +88,7 @@ CyberSecNotFound/
 ```
 <br>
 
-🪪 Certification Roadmap
+## 🪪 Certification Roadmap
 
 <br>
 
@@ -97,7 +97,7 @@ CyberSecNotFound/
 
 
 
-📊 GitHub Statistic
+## 📊 GitHub Statistic
 
 <br>
 
@@ -117,7 +117,7 @@ CyberSecNotFound/
 
 <br>
 
-🎯 Current Goals
+## 🎯 Current Goals
 <br>
 ```txt
 [ ] Master Red Team Fundamentals
@@ -127,12 +127,12 @@ CyberSecNotFound/
 [ ] Become a Cyber Security Professional
 ```
 ⚠️ Disclaimer
-<br>
+
 All materials in this repository are for educational purposes only.
 Unauthorized or illegal use is strictly prohibited.
 <br>
 
-🤝 Contact
+## 🤝 Contact
 ```txt
 GitHub : https://github.com/CyberSecNotFound
 Email : alblacksweat@gmail.com
