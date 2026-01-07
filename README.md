@@ -49,24 +49,6 @@ Scripting:
 
 <br>
 
-## 📁 Repository Structure
-
-```txt
-CyberSecNotFound/
-├── red-team/
-│   ├── recon/
-│   ├── exploit-poc/
-│   └── pentest-notes/
-├── blue-team/
-│   ├── log-analysis/
-│   ├── detection/
-│   └── hardening/
-├── ctf-writeups/
-└── security-notes/
-
-```
-<br>
-
 ## 🪪 Certification
 
 <br>
@@ -101,17 +83,6 @@ CyberSecNotFound/
 
 <br>
 
-## 🎯 Current Goals
-
-<br>
-
-```txt
-[ ] Master Red Team Fundamentals
-[ ] Build Strong Blue Team Detection Skills
-[ ] Active CTF Participation
-[ ] Achieve Entry-Level Certifications
-[ ] Become a Cyber Security Professional
-```
 ## ⚠️ Disclaimer
 
 ```txt
@@ -126,4 +97,4 @@ Unauthorized or illegal use is strictly prohibited.
 GitHub : https://github.com/CyberSecNotFound
 Email : 404notfoundcybersec@protonmail.com
 ```
-<div align="left"> <img src="https://img.shields.io/badge/STAY-ANONYMOUS-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> <img src="https://img.shields.io/badge/STAY-SECURE-00FF9C?style=for-the-badge"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/STAY-ANONYMOUS-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> <img src="https://img.shields.io/badge/STAY-SECURE-00FF9C?style=for-the-badge"> </div>
