@@ -94,11 +94,11 @@ CyberSecNotFound/
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-0a0a0a?style=for-the-badge&logo=comptia&logoColor=00e5ff&labelColor=ff2fd0">
-  <img src="https://img.shields.io/badge/CEH-0a0a0a?style=for-the-badge&logo=hackaday&logoColor=ff2fd0&labelColor=00e5ff">
-  <img src="https://img.shields.io/badge/MTCNA-0a0a0a?style=for-the-badge&logo=mikrotik&logoColor=00e5ff&labelColor=ff2fd0">
-  <img src="https://img.shields.io/badge/SECURITY%20BLUE%20TEAM-0a0a0a?style=for-the-badge&logo=shield&logoColor=ff2fd0&labelColor=00e5ff">
+<div align="left">
+  <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-black?style=for-the-badge&logo=comptia&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/CEH-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
+  <img src="https://img.shields.io/badge/MTCNA-black?style=for-the-badge&logo=mikrotik&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/SECURITY%20BLUE%20TEAM-00FF9C?style=for-the-badge&logo=shield&logoColor=black">
 </div>
 
 
