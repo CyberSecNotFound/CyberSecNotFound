@@ -87,7 +87,9 @@ CyberSecNotFound/
 
 ```
 <br>
+
 🪪 Certification Roadmap
+
 <br>
 
 <div align="left"> <img src="https://img.shields.io/badge/eJPT-IN%20PROGRESS-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"> <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black"> <img src="https://img.shields.io/badge/OSCP-FUTURE-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> </div>
@@ -106,7 +108,17 @@ CyberSecNotFound/
 
 Contribution
 <br>
-<div align="center"> <img src="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg"> </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" 
+         src="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <br>
 
 🎯 Current Goals
@@ -119,9 +131,10 @@ Contribution
 [ ] Become a Cyber Security Professional
 ```
 ⚠️ Disclaimer
+<br>
 All materials in this repository are for educational purposes only.
 Unauthorized or illegal use is strictly prohibited.
-
+<br>
 
 🤝 Contact
 ```txt
