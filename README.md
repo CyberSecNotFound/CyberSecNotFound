@@ -27,7 +27,7 @@ Mindset : Think like an attacker, defend like a professional
 ```
   <br/>
 ## ⚙️ Tech Stack
-<div align="left"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
 
 ```txt
 
@@ -45,7 +45,7 @@ Scripting:
 ## 🧪 Labs & Training Platforms
 
 <br>
-<div align="left"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
 
 <br>
 
@@ -53,7 +53,7 @@ Scripting:
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-black?style=for-the-badge&logo=comptia&logoColor=00FF9C">
   <img src="https://img.shields.io/badge/CEH-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
   <img src="https://img.shields.io/badge/MTCNA-black?style=for-the-badge&logo=mikrotik&logoColor=00FF9C">
