@@ -19,31 +19,39 @@
 
 ## 👤 Profile
 ```txt
-Alias        : CyberSecNotFound
-Level        : Cyber Security Student / Aspiring Professional
-Focus        : Red Team & Blue Team Operations
-Mindset      : Think like an attacker, defend like a professional
-
-
+Alias   : CyberSecNotFound
+Level   : Cyber Security Student / Aspiring Professional
+Focus   : Red Team & Blue Team Operations
+Mindset : Think like an attacker, defend like a professional
 🔴 Red Team Focus (Offensive Security)
-+ Web Application Penetration Testing
-+ Network Penetration Testing
-+ Reconnaissance & Enumeration
-+ Vulnerability Assessment
-+ Privilege Escalation (Linux / Windows)
-+ Basic Exploit Development
+
+Web Application Penetration Testing
+
+Network Penetration Testing
+
+Reconnaissance & Enumeration
+
+Vulnerability Assessment
+
+Privilege Escalation (Linux / Windows)
+
+Basic Exploit Development
 
 Tools
 
 nmap | burpsuite | metasploit | sqlmap | gobuster | hydra
 
-
 🔵 Blue Team Focus (Defensive Security)
-+ Log Analysis & Monitoring
-+ Incident Response Basics
-+ System & Network Hardening
-+ Threat Detection
-+ Security Awareness
+
+Log Analysis & Monitoring
+
+Incident Response Basics
+
+System & Network Hardening
+
+Threat Detection
+
+Security Awareness
 
 Tools
 
@@ -56,7 +64,7 @@ Operating Systems:
   - Ubuntu Server
   - Windows
 
-Programming & Scripting:
+Programming:
   - Bash
   - Python
 
@@ -65,50 +73,26 @@ Version Control:
 
 🧪 Labs & Training Platforms
 <div align="center"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge" /> </div>
-./CyberSecNotFound
-├── red-team/
-│   ├── recon-scripts/
-│   ├── exploit-poc/
-│   └── pentest-notes/
-├── blue-team/
-│   ├── log-analysis/
-│   ├── detection-notes/
-│   └── hardening-guides/
-├── ctf-writeups/
-└── security-notes/
-
-
-🪪 Certification Roadmap (Target)
+🪪 Certification Roadmap
 <div align="center"> <img src="https://img.shields.io/badge/eJPT-Target-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C" /> <img src="https://img.shields.io/badge/CEH-Target-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black" /> <img src="https://img.shields.io/badge/OSCP-Future-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C" /> </div>
-
-
 📊 GitHub Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-
+🐍 Contribution Snake
 <div align="center"> <img src="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg" /> </div>
+🎯 Current Goals
 
-🎯 Current Objectives
-[ ] Strong Red Team Fundamentals
-[ ] Solid Blue Team Detection Skills
-[ ] Consistent CTF Participation
-[ ] Achieve Entry-Level Certifications
-[ ] Become a Cyber Security Professional
+ Strong Red Team Fundamentals
 
-🤝 Contact & Collaboration
-GitHub : https://github.com/CyberSecNotFound
-Focus  : Cyber Security • Red Team • Blue Team • CTF
+ Solid Blue Team Detection Skills
 
-<div align="center"> <img src="https://img.shields.io/badge/STATUS-LEARNING%20MODE-00FF9C?style=for-the-badge" /> <img src="https://img.shields.io/badge/MINDSET-HACK%20SMART-black?style=for-the-badge" /> </div>
+ Consistent CTF Participation
 
-🛡️ Stay low. Stay sharp. Stay secure.
+ Entry-Level Certifications
 
+ Cyber Security Professional
 
----
+🤝 Contact
 
-Kalau mau lanjut, saya bisa langsung:
-- 😈 bikin **Red Team ONLY hardcore**
-- 🧊 bikin **Blue Team / SOC ONLY**
-- 🏴‍☠️ persona **anonymous underground**
-- 🧑‍💼 versi **professional recruiter-friendly**
+GitHub: https://github.com/CyberSecNotFound
 
-Tinggal bilang satu kata: **RED / BLUE / ANON / PRO** 💀🛡️
+<div align="center"> <img src="https://img.shields.io/badge/STAY-ANONYMOUS-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C" /> <img src="https://img.shields.io/badge/STAY-SECURE-00FF9C?style=for-the-badge" /> </div>
