@@ -68,3 +68,54 @@ Scripting:
 🧪 Labs & Training Platforms
 <div align="center"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
 
+```txt
+```
+📁 Repository Structure
+```txt
+CyberSecNotFound/
+├── red-team/
+│   ├── recon/
+│   ├── exploit-poc/
+│   └── pentest-notes/
+├── blue-team/
+│   ├── log-analysis/
+│   ├── detection/
+│   └── hardening/
+├── ctf-writeups/
+└── security-notes/
+```
+🪪 Certification Roadmap
+<div align="center"> <img src="https://img.shields.io/badge/eJPT-IN%20PROGRESS-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"> <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black"> <img src="https://img.shields.io/badge/OSCP-FUTURE-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> </div>
+```txt
+```
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight&hide_border=true"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight&hide_border=true"> </div>
+
+```txt
+```
+🐍 Contribution Snake Animation
+<div align="center"> <img src="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg"> </div>
+
+```txt
+```
+🎯 Current Goals
+```txt
+[ ] Master Red Team Fundamentals
+[ ] Build Strong Blue Team Detection Skills
+[ ] Active CTF Participation
+[ ] Achieve Entry-Level Certifications
+[ ] Become a Cyber Security Professional
+```
+⚠️ Disclaimer
+All materials in this repository are for educational purposes only.
+Unauthorized or illegal use is strictly prohibited.
+
+🤝 Contact
+```txt
+GitHub : https://github.com/CyberSecNotFound
+Focus  : Cyber Security • Red Team • Blue Team • CTF
+```
+<div align="center"> <img src="https://img.shields.io/badge/STAY-ANONYMOUS-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> <img src="https://img.shields.io/badge/STAY-SECURE-00FF9C?style=for-the-badge"> </div>
+
+```txt
+
