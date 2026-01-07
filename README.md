@@ -2,37 +2,40 @@
 <!--  Username : CyberSecNotFound                      -->
 <!-- ================================================= -->
 
-<div align="center">
+<div align="center"> <!-- Typing SVG --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve"/> 
+  <!-- Static hacker-style banner --> 
+<svg width="100%" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg" style="max-width:854px; margin-top:10px;"> <defs> <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"> <rect width="4" height="1" fill="#00FF9C" opacity="0.08"/> </pattern>
+  <linearGradient id="glitchGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
+  </linearGradient>
+</defs>
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
+<!-- Background -->
+<rect width="854" height="200" fill="#050505"/>
+<rect width="854" height="200" fill="url(#scanlines)"/>
 
-  <!-- Static banner SVG -->
-  <svg width="100%" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg" style="max-width:854px; margin-top:10px;">
-    <!-- Background -->
-    <rect width="854" height="200" fill="#050505"/>
+<!-- Static glitch bars -->
+<g opacity="0.6">
+  <rect x="100" y="40" width="400" height="8" fill="url(#glitchGrad)"/>
+  <rect x="200" y="90" width="500" height="6" fill="url(#glitchGrad)"/>
+  <rect x="150" y="140" width="450" height="5" fill="url(#glitchGrad)"/>
+</g>
 
-    <!-- 404 Text -->
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          style="font-family:Courier New, monospace; font-size:80px; fill:#00FF9C;">
-      404 NOT FOUND
-    </text>
+<!-- 404 Text -->
+<text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle"
+      style="font-family:Courier New, monospace; font-size:80px; fill:#00FF9C; letter-spacing:4px;">
+  404 NOT FOUND
+</text>
 
-    <!-- Subtitle -->
-    <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle"
-          style="font-family:Courier New, monospace; font-size:24px; fill:#9FFFE0;">
-      CYBER SECURITY
-    </text>
-  </svg>
+<!-- Subtitle -->
+<text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle"
+      style="font-family:Courier New, monospace; font-size:24px; fill:#9FFFE0; letter-spacing:2px;">
+  CYBER SECURITY
+</text>
 
-  <!-- Badges -->
-  <br/>
-  <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
-  <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
-  <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C">
-
-</div>
+</svg> <!-- Badges --> <br/> <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black"> <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C"> <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black"> <img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C"> </div>
 
 
 ## 👤 Profile
