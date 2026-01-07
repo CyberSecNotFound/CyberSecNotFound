@@ -5,7 +5,68 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
+<svg
+  width="854"
+  height="200"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 200"
+>
+  <style>
+    .text { 
+      font-size: 80px; 
+      font-weight: 700; 
+      font-family: 'Courier New', Courier, monospace;
+    } 
+    .desc { 
+      font-size: 24px; 
+      font-weight: 500; 
+      font-family: 'Courier New', Courier, monospace;
+    } 
+    .text, .desc { 
+      animation: fadeIn 1.2s ease-in-out forwards;  
+    } 
+    @keyframes fadeIn { 
+      from { opacity: 0; } 
+      to { opacity: 1; }  
+    } 
+  </style>
 
+  <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+    <path d="" fill="#00FF9C" opacity="0.4" >
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+      </animate>
+    </path>
+    <path d="" fill="#00FF9C" opacity="0.4" >
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1">
+    404 NOT FOUND
+  </text>
+  <text text-anchor="middle" alignment-baseline="middle" x="65%" y="65%" class="desc" style="fill:#ffffff;">
+    Cyber Security
+  </text>
+</svg>
 <br>
 
 <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
