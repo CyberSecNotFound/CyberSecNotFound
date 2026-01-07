@@ -99,11 +99,9 @@ CyberSecNotFound/
 
 
 ## 📊 GitHub Analytics
-### My GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CyberSecNotFound&theme=tokyonight" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSecNotFound&theme=tokyo-night)
+
 
 </div>
 <br>
