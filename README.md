@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve"/>
+
 <svg
   width="854"
   height="200"
@@ -32,31 +33,36 @@
     .subtitle {
       font-family: 'Courier New', Courier, monospace;
       font-size: 24px;
-      fill: #9fffe0;
+      fill: #9FFFE0;
       letter-spacing: 2px;
     }
   </style>
+
+  <!-- Background -->
   <rect width="854" height="200" fill="#050505"/>
+
+  <!-- Scanlines overlay -->
   <rect width="854" height="200" fill="url(#scanlines)"/>
+
+  <!-- Static glitch bars -->
   <g opacity="0.6">
-    <rect x="-200" y="40" width="400" height="8" fill="url(#glitchGrad)">
-      <animate attributeName="x" from="-400" to="900" dur="6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="-300" y="90" width="500" height="6" fill="url(#glitchGrad)">
-      <animate attributeName="x" from="900" to="-500" dur="8s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="-250" y="140" width="450" height="5" fill="url(#glitchGrad)">
-      <animate attributeName="x" from="-450" to="900" dur="7s" repeatCount="indefinite"/>
-    </rect>
+    <rect x="100" y="40" width="400" height="8" fill="url(#glitchGrad)"/>
+    <rect x="200" y="90" width="500" height="6" fill="url(#glitchGrad)"/>
+    <rect x="150" y="140" width="450" height="5" fill="url(#glitchGrad)"/>
   </g>
+
+  <!-- Text -->
   <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="title">
     404 NOT FOUND
   </text>
+
   <text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle" class="subtitle">
     CYBER SECURITY
   </text>
 
 </svg>
+
+
 <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
 <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
 <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
