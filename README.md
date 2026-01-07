@@ -94,16 +94,19 @@ CyberSecNotFound/
 
 <br>
 
-<div align="left"> <img src="https://img.shields.io/badge/eJPT-IN%20PROGRESS-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"> <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black"> <img src="https://img.shields.io/badge/OSCP-FUTURE-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-IN%20PROGRESS-black?style=for-the-badge&logo=comptia&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
+  <img src="https://img.shields.io/badge/MTCNA-PLANNED-black?style=for-the-badge&logo=mikrotik&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Security%20Blue%20Team-FUTURE-00FF9C?style=for-the-badge&logo=shield&logoColor=black">
+</div>
+
 <br>
 
 
 ## 📊 GitHub Analytics
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSecNotFound&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
-![Followers](https://img.shields.io/github/followers/CyberSecNotFound?color=green&logo=github&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/CyberSecNotFound?color=green&logo=github&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=CyberSecNotFound&color=green&style=for-the-badge)
 
 </div>
 <br>
