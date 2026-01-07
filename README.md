@@ -44,9 +44,11 @@ nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
 + System & Network Hardening
 + Threat Detection & Alerting
 + Security Awareness
-```
-wireshark | elastic stack | sysmon | firewall | IDS / IPS
 ```txt
+```
+Tools
+```txt
+wireshark | elastic stack | sysmon | firewall | IDS / IPS
 ```
 ⚙️ Tech Stack
 <div align="left"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
@@ -62,4 +64,7 @@ Scripting:
   - Bash
   - Python
   - Git & GitHub
+```
+🧪 Labs & Training Platforms
+<div align="center"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
 
