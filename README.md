@@ -8,7 +8,6 @@
 <div align="center">
   <img src="./banner.svg" alt="404 Cyber Security Banner">
 </div>
-</div>
 
   <br/>
   
