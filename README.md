@@ -9,12 +9,13 @@
   <img src="./banner.svg" alt="404 Cyber Security Banner">
 </div>
 </div>
+
   <br/>
+  
   <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
   <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
   <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C">
-
 </div>
 
 ## 👤 Profile
