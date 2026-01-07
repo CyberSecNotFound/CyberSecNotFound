@@ -43,7 +43,6 @@ nmap | burpsuite | metasploit | sqlmap | gobuster | hydra | nikto
 + System & Network Hardening
 + Threat Detection & Alerting
 + Security Awareness
-```txt
 ```
 Tools
 ```txt
@@ -65,9 +64,11 @@ Scripting:
   - Git & GitHub
 
 ```
+<br>
 🧪 Labs & Training Platforms
+<br>
 <div align="left"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
-<p></p>
+<br>
 
 📁 Repository Structure
 
@@ -85,28 +86,31 @@ CyberSecNotFound/
 └── security-notes/
 
 ```
+<br>
 🪪 Certification Roadmap
-
+<br>
 
 <div align="left"> <img src="https://img.shields.io/badge/eJPT-IN%20PROGRESS-black?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"> <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black"> <img src="https://img.shields.io/badge/OSCP-FUTURE-black?style=for-the-badge&logo=protonvpn&logoColor=00FF9C"> </div>
-<p></p>
+<br>
 
 
 
 📊 GitHub Stats
 
-<p></p>
+<br>
 
 
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight&hide_border=true"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight&hide_border=true"> </div>
-
+<br>
 
 
 Contribution
+<br>
 <div align="center"> <img src="https://github.com/CyberSecNotFound/CyberSecNotFound/blob/output/github-contribution-grid-snake.svg"> </div>
-<p></p>
+<br>
 
 🎯 Current Goals
+<br>
 ```txt
 [ ] Master Red Team Fundamentals
 [ ] Build Strong Blue Team Detection Skills
