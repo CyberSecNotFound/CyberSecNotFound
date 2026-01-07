@@ -4,27 +4,36 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve"/>
-<p align="center">
-<svg width="854" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="854" height="200" fill="#050505"/>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        style="font-family:Courier New; font-size:80px; fill:#00FF9C;">
-    404 NOT FOUND
-  </text>
-  <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle"
-        style="font-family:Courier New; font-size:24px; fill:#9FFFE0;">
-    CYBER SECURITY
-  </text>
-</svg>
-</p>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
 
-<img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
-<img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
-<img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C">
+  <!-- Static banner SVG -->
+  <svg width="100%" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg" style="max-width:854px; margin-top:10px;">
+    <!-- Background -->
+    <rect width="854" height="200" fill="#050505"/>
+
+    <!-- 404 Text -->
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          style="font-family:Courier New, monospace; font-size:80px; fill:#00FF9C;">
+      404 NOT FOUND
+    </text>
+
+    <!-- Subtitle -->
+    <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle"
+          style="font-family:Courier New, monospace; font-size:24px; fill:#9FFFE0;">
+      CYBER SECURITY
+    </text>
+  </svg>
+
+  <!-- Badges -->
+  <br/>
+  <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
+  <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C">
 
 </div>
+
 
 ## 👤 Profile
 ```txt
