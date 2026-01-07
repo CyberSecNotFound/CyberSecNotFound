@@ -3,18 +3,15 @@
 <!-- ================================================= -->
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
 
-<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
+  <br/>
+  <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
+  <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSIVE-00FF9C?style=for-the-badge&logo=elastic&logoColor=black">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-black?style=for-the-badge&logo=github&logoColor=00FF9C">
 
-<defs> <!-- Scanline pattern --> <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"> <rect width="4" height="1" fill="#00FF9C" opacity="0.08"/> </pattern>
-<!-- Glitch bars (static) -->
-<linearGradient id="glitchGrad" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
-  <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.15"/>
-  <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
-</linearGradient>
-
-</defs> <style> .title { font-family: 'Courier New', Courier, monospace; font-size: 80px; font-weight: 700; fill: #00FF9C; letter-spacing: 4px; } .subtitle { font-family: 'Courier New', Courier, monospace; font-size: 24px; fill: #9FFFE0; letter-spacing: 2px; } </style> <!-- Background --> <rect width="854" height="200" fill="#050505"/> <!-- Scanlines overlay --> <rect width="854" height="200" fill="url(#scanlines)"/> <!-- Static glitch bars --> <g opacity="0.6"> <rect x="100" y="40" width="400" height="8" fill="url(#glitchGrad)"/> <rect x="200" y="90" width="500" height="6" fill="url(#glitchGrad)"/> <rect x="150" y="140" width="450" height="5" fill="url(#glitchGrad)"/> </g> <!-- Text --> <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="title"> 404 NOT FOUND </text> <text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle" class="subtitle"> CYBER SECURITY </text> </svg> </div>
+</div>
 
 ## 👤 Profile
 ```txt
