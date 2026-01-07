@@ -102,8 +102,7 @@ CyberSecNotFound/
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=CyberSecNotFound&theme=tokyonight" />
 </p>
 
 </div>
