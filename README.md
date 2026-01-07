@@ -4,7 +4,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CyberSecNotFound;Cyber+Security+Enthusiast;Red+Team+%7C+Blue+Team;Ethical+Hacking+%26+Defense;Attack+%E2%80%A2+Defend+%E2%80%A2+Evolve" />
-
+<div align="center">
+  <img src="./banner.svg" alt="404 Cyber Security Banner">
+</div>
   <br/>
   <img src="https://img.shields.io/badge/CYBER-SECURITY-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
   <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE-black?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
