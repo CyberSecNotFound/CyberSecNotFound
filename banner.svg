@@ -1,52 +1,43 @@
-<svg
-  width="854"
-  height="200"
-  viewBox="0 0 854 200"
-  xmlns="http://www.w3.org/2000/svg">
+<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="1" fill="#00FF9C" opacity="0.08"/>
-    </pattern>
-
-    <linearGradient id="glitchGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <style>
-    .title {
-      font-family: 'Courier New', monospace;
-      font-size: 80px;
-      font-weight: 700;
-      fill: #00FF9C;
-      letter-spacing: 4px;
-    }
-    .subtitle {
-      font-family: 'Courier New', monospace;
-      font-size: 24px;
-      fill: #9FFFE0;
-      letter-spacing: 2px;
-    }
-  </style>
-
+  <!-- Background -->
   <rect width="854" height="200" fill="#050505"/>
+
+  <!-- Scanlines -->
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#00FF9C" opacity="0.08"/>
+  </pattern>
   <rect width="854" height="200" fill="url(#scanlines)"/>
 
+  <!-- Glitch bars -->
+  <linearGradient id="glitchGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
+  </linearGradient>
   <g opacity="0.6">
-    <rect x="100" y="40" width="400" height="8" fill="url(#glitchGrad)"/>
-    <rect x="200" y="90" width="500" height="6" fill="url(#glitchGrad)"/>
-    <rect x="150" y="140" width="450" height="5" fill="url(#glitchGrad)"/>
+    <rect x="-400" y="40" width="400" height="8" fill="url(#glitchGrad)">
+      <animate attributeName="x" from="-400" to="900" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="900" y="90" width="500" height="6" fill="url(#glitchGrad)">
+      <animate attributeName="x" from="900" to="-500" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-450" y="140" width="450" height="5" fill="url(#glitchGrad)">
+      <animate attributeName="x" from="-450" to="900" dur="6s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="title">
+  <!-- Flicker text 404 -->
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle"
+        style="font-family:'Courier New', monospace; font-size:80px; fill:#00FF9C;">
     404 NOT FOUND
+    <animate attributeName="opacity" values="1;0.7;1;0.8;1" dur="1s" repeatCount="indefinite"/>
   </text>
 
-  <text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle" class="subtitle">
+  <!-- Subtitle -->
+  <text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle"
+        style="font-family:'Courier New', monospace; font-size:24px; fill:#9FFFE0;">
     CYBER SECURITY
+    <animate attributeName="opacity" values="1;0.6;1;0.7;1" dur="2s" repeatCount="indefinite"/>
   </text>
-
 </svg>
