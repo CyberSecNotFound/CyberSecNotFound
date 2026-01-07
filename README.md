@@ -100,9 +100,10 @@ CyberSecNotFound/
 ## 📊 GitHub Stats
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C&bg_color=0D0D0D">
+<img src="https://github-readme-stats.vercel.app/api?username=CyberSecNotFound&show_icons=true&theme=dark&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=radical&hide_border=true&title_color=00FF9C&text_color=00FF9C&bg_color=0D0D0D&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecNotFound&layout=compact&theme=dark&hide_border=true" />
+
 </div>
 <br>
 <div align="center">
