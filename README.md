@@ -64,8 +64,8 @@ Scripting:
   - Git & GitHub
 
 ```
-<br>
-🧪 Labs & Training Platforms
+## 🧪 Labs & Training Platforms
+
 <br>
 <div align="left"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"> <img src="https://img.shields.io/badge/VulnHub-2E3440?style=for-the-badge"> </div>
 <br>
@@ -117,8 +117,9 @@ CyberSecNotFound/
 </div>
 
 <br>
-```
+
 ## 🎯 Current Goals
+
 <br>
 
 ```txt
@@ -128,7 +129,7 @@ CyberSecNotFound/
 [ ] Achieve Entry-Level Certifications
 [ ] Become a Cyber Security Professional
 ```
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 ```txt
 
