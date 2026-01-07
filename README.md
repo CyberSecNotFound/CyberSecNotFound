@@ -90,15 +90,15 @@ CyberSecNotFound/
 ```
 <br>
 
-## 🪪 Certification Roadmap
+## 🪪 Certification
 
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-IN%20PROGRESS-black?style=for-the-badge&logo=comptia&logoColor=00FF9C">
-  <img src="https://img.shields.io/badge/CEH-TARGET-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
-  <img src="https://img.shields.io/badge/MTCNA-PLANNED-black?style=for-the-badge&logo=mikrotik&logoColor=00FF9C">
-  <img src="https://img.shields.io/badge/Security%20Blue%20Team-FUTURE-00FF9C?style=for-the-badge&logo=shield&logoColor=black">
+  <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-black?style=for-the-badge&logo=comptia&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/CEH-00FF9C?style=for-the-badge&logo=hackaday&logoColor=black">
+  <img src="https://img.shields.io/badge/MTCNA-black?style=for-the-badge&logo=mikrotik&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/SECURITY%20BLUE%20TEAM-00FF9C?style=for-the-badge&logo=shield&logoColor=black">
 </div>
 
 <br>
