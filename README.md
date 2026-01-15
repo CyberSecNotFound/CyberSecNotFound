@@ -26,7 +26,8 @@ Mindset : Think like an attacker, defend like a professional
 
 ```
   <br/>
-## ⚙️ Tech Stack
+  ## ⚙️ Tech Stack
+  
 <div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker"> </div>
 
 ```txt
